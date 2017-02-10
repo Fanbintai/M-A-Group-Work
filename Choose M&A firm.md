@@ -2,22 +2,21 @@
 提议目标：  
 
 **TMT科技领域**
-- 微软收购领英
-- 戴尔收购EMC
-- 日本电信集团软银收购英国科技企业（ARM Holdings plc）
-- 滴滴出行和优步中国宣布合并
-- 腾讯收购Supercell
-- 海尔收购通用家电
+- 2016.06.13announce,completed at 2016.12.08微软收购领英
+- 2015.10.12announce,completed at 2016.09.07戴尔收购EMC
+- 2015.7.18announce,completed at 2016.09.06日本电信集团软银收购英国科技企业（ARM Holdings plc）
+- 2016.08.01ann/pending滴滴出行和优步中国宣布合并
+- 2016.06.21pending腾讯收购Supercell
+- 2016.01.15ann/2016.06.06completed海尔收购通用家电
 - 蘑菇街、美丽说的合并 
 
 **文化传媒领域**
-- AT&T收购时代华纳
-- 万达旗下美国AMC娱乐控股收购欧洲最大院线Odeon & UCI Cinemas Group
-- 苏宁收购国际米兰
-- 万达集团收购美国传奇影业公司  
-
+- 2016.10.22 AT&T收购时代华纳 pending
+- 2016.07.12ann/2016.11.30completed万达旗下美国AMC娱乐控股收购欧洲最大院线Odeon & UCI Cinemas Group
+- 2016.06.06ann pending苏宁收购国际米兰
+ 
 **工业制造业**
-- 中国化工403亿美元并购先正达  
+- 2016.02.03ann/pending中国化工403亿美元并购先正达  
 - 中国三安光电并购德国朗德万斯（Ledvance照明企业)
 - 福建宏芯并购德国爱思强(Aixtron芯片设备制造商)
 
@@ -36,3 +35,4 @@
 今年7月，万达旗下美国AMC娱乐控股以9.21亿英镑从私募股权公司Terra Firma手中收购总部位于伦敦的欧洲最大院线Odeon & UCI Cinemas Group. 交易完成后
 （Softbank Group Corp.）宣布以243亿英镑收购英国科技企业（ARM Holdings plc）。
 9月，万豪国际集团（MarriottInternational Inc.）完成了对喜达屋酒店及度假酒店（Starwood Hotels &Resorts Worldwide Inc.）的收购。
+- 2012.5.21ann/2012.08.30completed万达集团收购美国传奇影业公司 
